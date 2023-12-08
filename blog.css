@@ -14,3 +14,45 @@
         background-color: blue;
     }
 }
+
+/* HEADER (on the index) */
+/* the container for the index heading (title, nav links) */
+.index-header
+{
+    
+}
+/* the huge clickable AAAAHH at top of page */
+.index-title
+{
+
+}
+/* the links at the top of the page beneath the title */
+.index-navigation-links
+{
+
+}
+
+/* POSTS (on the index) */
+/* title style (is a permalink) */
+.index-post-title
+{
+
+}
+.index-date-and-category
+{
+
+}
+
+/* PAGINATION (at the bottom of the index) */
+.index-pagination-container
+{
+
+}
+.index-pagination-link
+{
+
+}
+
+
+
+
